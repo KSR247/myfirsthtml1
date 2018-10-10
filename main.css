@@ -1,4 +1,4 @@
-
+    
 .videoWrapper {
     position: relative;
     padding-bottom: 40%; /* 16:9 */
@@ -18,6 +18,29 @@ h2 {
     
 }
 
-.logo {
-    color: black
+.lists {
+    align-self: center
+}
+
+.lists {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+} 
+
+.teddybear {
+    align: center;
+    background-color: black;
+    color: blue;
+    padding: 10px
+}
+
+.Logo {
+    background-color: black;
+    color: blue;
+    padding: 10px
+}
+
+.bigPicture {
+    position: relative;
 }
