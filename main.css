@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo|Nothing+You+Could+Do');
+
+
+
 .videoWrapper {
     position: relative;
     padding-bottom: 40%; /* 16:9 */
@@ -22,16 +26,13 @@ h2 {
 }
 
 .lists {
-    background-color: tomato;
+    background-color: blue;
     color: white;
     padding: 10px;
 } 
 
 .teddybear {
-    align: center;
-    background-color: black;
-    color: blue;
-    padding: 10px
+    text-align: center
 }
 
 .Logo {
@@ -41,5 +42,24 @@ h2 {
 }
 
 .bigPicture {
-    position: relative;
+    width: 100%
+}
+
+.diary {
+
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 40px;
+}
+
+.belongings {
+    padding: 10% 33.33%;
+    font-size: 20px
+}
+
+.about {
+    text-align: center
+}
+
+.gifs {
+    text-align: center;
 }
